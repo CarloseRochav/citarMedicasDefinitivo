@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5F9905A-82FD-489D-A7DE-B6D62E0073A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoEquipo3_1</RootNamespace>
+    <AssemblyName>ProyectoEquipo3_1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6E4CEB88DCF237D4E9644AE3CE77FCB669636301</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ProyectoEquipo3_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADM_Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADM_Citas.Designer.cs">
+      <DependentUpon>ADM_Citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADM_RClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADM_RClientes.Designer.cs">
+      <DependentUpon>ADM_RClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADM_REspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADM_REspecialidad.Designer.cs">
+      <DependentUpon>ADM_REspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADM_RHorarioMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADM_RHorarioMedicos.Designer.cs">
+      <DependentUpon>ADM_RHorarioMedicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADM_RMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADM_RMedico.Designer.cs">
+      <DependentUpon>ADM_RMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente_CrearCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente_CrearCitas.Designer.cs">
+      <DependentUpon>Cliente_CrearCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente_InicioCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente_InicioCitas.Designer.cs">
+      <DependentUpon>Cliente_InicioCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="comboBoxes\ComboBoxes.cs" />
+    <Compile Include="Connection\Conexion.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioMedico.Designer.cs">
+      <DependentUpon>InicioMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioPaciente.Designer.cs">
+      <DependentUpon>InicioPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico_CrearCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico_CrearCita.Designer.cs">
+      <DependentUpon>Medico_CrearCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico_InicioCitass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico_InicioCitass.Designer.cs">
+      <DependentUpon>Medico_InicioCitass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ADM_Citas.resx">
+      <DependentUpon>ADM_Citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADM_RClientes.resx">
+      <DependentUpon>ADM_RClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADM_REspecialidad.resx">
+      <DependentUpon>ADM_REspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADM_RHorarioMedicos.resx">
+      <DependentUpon>ADM_RHorarioMedicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADM_RMedico.resx">
+      <DependentUpon>ADM_RMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente_CrearCitas.resx">
+      <DependentUpon>Cliente_CrearCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente_InicioCitas.resx">
+      <DependentUpon>Cliente_InicioCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioMedico.resx">
+      <DependentUpon>InicioMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioPaciente.resx">
+      <DependentUpon>InicioPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico_CrearCita.resx">
+      <DependentUpon>Medico_CrearCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico_InicioCitass.resx">
+      <DependentUpon>Medico_InicioCitass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ProyectoEquipo3_1_TemporaryKey.pfx" />
+    <None Include="Resources\TituloAdministrador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClienteImagen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Espe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reloj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Citas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regreso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txtUsuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txtAccesoSistema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txtContra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtRClientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txtRegistrarClientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtNumeroID.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txtApellidoP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TXTApellidoM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TXTNombre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TXTGenero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TXTFechaNaci.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TXTCorreoElec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\txtContra1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtNumeroID1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtApellidoPate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtApellidoMaterno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtNombre %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtGene.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtNacimiento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtCorreoE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TxtContras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Citas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LCitas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reespecia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IdESPE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desctxt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TXTH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398568193590193.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398568302410422.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398568432098663.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398568516721475.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398568501699005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398568835802118.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398569122665187.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398569286467132.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398569337052189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398569412059752.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398569472587388.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398569619459008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398570160730888.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Espe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rpaci.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-15297441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-12885482.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-153001462.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-61431265.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3dpac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext398730640621890.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3122.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_eliminar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_crear-nueva-cita.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_crear-cita.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_ingresar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_registrar-paciente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_registrar-medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_registrar-especialidades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_horario-medicos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_citas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_registrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D_NQ_NP_799735-MLM41954188949_052020-O.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paciente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tipo_usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_administrador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_paciente.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

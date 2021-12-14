@@ -1,0 +1,225 @@
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csprojAssemblyReference.cache
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\keevi\source\repos\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csprojAssemblyReference.cache
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\keevi\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Documents\Tareas\Workspace_C#\ProyectoEquipo3_1 (2)\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\ProyectoEquipo3_1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Downloads\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\a\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Downloads\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\THE DARK\Desktop\ProyectoEquipo3.1_1 (1)\ProyectoEquipo3.1 (1)\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.config
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.AssemblyReference.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_Citas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RClientes.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_REspecialidad.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RHorarioMedicos.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.ADM_RMedico.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_CrearCitas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Cliente_InicioCitas.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Form1.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Inicio.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioMedico.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.InicioPaciente.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Main.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_CrearCita.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Medico_InicioCitass.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.Properties.Resources.resources
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.GenerateResource.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.pdb
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.exe.manifest
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\bin\Debug\ProyectoEquipo3_1.application
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.exe.manifest
+C:\Users\ernes\Downloads\ProyectoEquipo3.2\ProyectoEquipo3.1\ProyectoEquipo3_1\obj\Debug\ProyectoEquipo3_1.application
